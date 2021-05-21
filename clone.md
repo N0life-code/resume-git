@@ -48,3 +48,5 @@ $ cd mon-linux
 ```
 $ git clone --bare -l /home/proj/.git /pub/scm/proj.git
 ```
+
+# je ne fais que passer
