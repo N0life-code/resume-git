@@ -8,7 +8,7 @@ Pour revenir à la liste complète des commandes, [cliquez ici](index.html)
 
 
 
-## Commande `git status`
+## Commande `git clone`
 
 
 ### Description
